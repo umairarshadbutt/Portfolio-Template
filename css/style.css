@@ -1490,3 +1490,19 @@ main {
   color: #aaa;
   margin-top: 12px;
 }
+.btn_ {
+  background-color: #f96b71;
+  border: none;
+  color: white;
+  padding: 5px 19px;
+  cursor: pointer;
+  font-size: 20px;
+}
+
+/* Darker background on mouse-over */
+.btn_:hover {
+  background-color: #ea5157;
+}
+.button-possition{
+  position: absolute;bottom: 8px; right: 16px;font-size: 18px;
+}
