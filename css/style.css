@@ -3,7 +3,7 @@ body {
   font-weight: 400;
   font-size: 15px;
   line-height: 1.8;
-  color: #b3b3b3;
+  color: #343a40;
   background: #fff;
 }
 
@@ -526,7 +526,7 @@ main {
 .event-list-item .date {
   border-right: 1px solid #ccc;
   text-transform: uppercase;
-  color: #b3b3b3;
+  color: #343a40;
 }
 
 .event-list-item .more {
@@ -1491,6 +1491,7 @@ main {
   margin-top: 12px;
 }
 .btn_ {
+  border-radius: 11px;
   background-color: #f96b71;
   border: none;
   color: white;
