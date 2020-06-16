@@ -1,6 +1,6 @@
 # Umair Arshad Portfolio
 
-![screenshot](assets/img/portfolio.png)
+![screenshot](img/portfolio.png)
 
 ## Built With
 
@@ -10,7 +10,7 @@
 
 ## Live Demo
 
-[Live Demo Link(https://rawcdn.githack.com/umairarshadbutt/Portfolio-Template/115a280cf544b1954795c44304221c66d771179b/index.html)
+[Live Demo Link](https://rawcdn.githack.com/umairarshadbutt/Portfolio-Template/115a280cf544b1954795c44304221c66d771179b/index.html)
 
 
 ### Prerequisites
